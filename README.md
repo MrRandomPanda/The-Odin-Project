@@ -1,3 +1,3 @@
-# git_test2
+# The-Odin-Project
 
-Hello Odin!
+Repository below will include my work and projects from The Odin Academy.
